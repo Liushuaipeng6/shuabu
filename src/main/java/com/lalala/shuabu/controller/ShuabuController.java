@@ -1,8 +1,8 @@
 package com.lalala.shuabu.controller;
 
-import com.lalala.model.User;
-import com.lalala.util.Http;
-import com.lalala.util.R;
+import com.lalala.shuabu.model.User;
+import com.lalala.shuabu.util.Http;
+import com.lalala.shuabu.util.R;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

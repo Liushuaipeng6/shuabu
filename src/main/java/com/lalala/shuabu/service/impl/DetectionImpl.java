@@ -1,10 +1,10 @@
 package com.lalala.shuabu.service.impl;
 
 import com.alibaba.fastjson.JSONObject;
-import com.lalala.model.DetectionInfo;
-import com.lalala.service.IDetectionService;
-import com.lalala.util.ExcelUtils;
-import com.lalala.util.HttpClientUtils;
+import com.lalala.shuabu.model.DetectionInfo;
+import com.lalala.shuabu.service.IDetectionService;
+import com.lalala.shuabu.util.ExcelUtils;
+import com.lalala.shuabu.util.HttpClientUtils;
 import org.springframework.stereotype.Service;
 
 import javax.servlet.http.HttpServletResponse;

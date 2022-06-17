@@ -1,6 +1,6 @@
 package com.lalala.shuabu.controller;
 
-import com.lalala.service.IDetectionService;
+import com.lalala.shuabu.service.IDetectionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

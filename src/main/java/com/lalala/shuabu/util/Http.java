@@ -11,7 +11,7 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.google.common.base.Splitter;
-import com.lalala.model.User;
+import com.lalala.shuabu.model.User;
 import org.apache.http.Header;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.config.RequestConfig;
