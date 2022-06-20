@@ -29,7 +29,7 @@ public class ShuabuTask {
     @Value(value = "${shuabu.userFilePath}")
     private String userFilePath;
 
-    @Scheduled(cron = "0 13 11 * * ? ")
+    @Scheduled(cron = "0 0 11 * * ? ")
 //    @Scheduled(cron = "0 10 10 * * ? ")
     public void shuabu() {
         List<String> userList = readTxt(userFilePath);

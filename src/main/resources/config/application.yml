@@ -3,4 +3,5 @@ server:
 
 
 shuabu:
-  userFilePath: D:\test_test\userFile.txt
+#  userFilePath: D:\test_test\userFile.txt
+  userFilePath: /usr/local/shuabu
