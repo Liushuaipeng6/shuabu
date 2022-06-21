@@ -4,4 +4,4 @@ server:
 
 shuabu:
 #  userFilePath: D:\test_test\userFile.txt
-  userFilePath: /usr/local/shuabu
+  userFilePath: /usr/local/shuabu/userFile.txt
